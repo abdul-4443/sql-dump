@@ -1,6 +1,6 @@
-CREATE DATABASE AbdulRehman_24L0725;
+CREATE DATABASE abdulrehmanbutt_24L_0725;
 GO
-USE AbdulRehman_24L0725;
+USE abdulrehmanbutt_24L_0725;
 
 -- 1. Create the Specialization table
 CREATE TABLE specialization (
